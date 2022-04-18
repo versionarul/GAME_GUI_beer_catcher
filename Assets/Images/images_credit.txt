@@ -1,0 +1,2 @@
+beer_box.png | <a href="https://www.flaticon.com/free-icons/beverage" title="beverage icons">Beverage icons created by juicy_fish - Flaticon</a>
+beer_bottle.png | <a href="https://www.flaticon.com/free-icons/beer" title="beer icons">Beer icons created by Freepik - Flaticon</a>
